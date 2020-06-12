@@ -4,7 +4,7 @@
     <property name="created">2020-06-12T00:01:20</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2020-06-12T02:12:56</property>
+    <property name="modified">2020-06-12T12:48:25</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -854,7 +854,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="9688" />
       </value>
     </option>
     <option name="HTTP_REQUEST_INPUT_FILE">
