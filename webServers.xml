@@ -55,6 +55,9 @@
       <webServer id="4d848eb6-cfe3-4561-ad2e-ec30dd77080a" name="Laravolt" url="http://laravolt.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c694492f-f764-4bf7-8763-ec2867dfa5fd" name="Sandbox" url="http://sandbox.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
