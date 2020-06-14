@@ -58,6 +58,9 @@
       <webServer id="c694492f-f764-4bf7-8763-ec2867dfa5fd" name="Sandbox" url="http://sandbox.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="06aa6a5d-4b87-4aca-90eb-5116e533a904" name="Akaunting" url="http://akaunting.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
