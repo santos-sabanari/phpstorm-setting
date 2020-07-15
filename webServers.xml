@@ -1,0 +1,66 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e50616e3-e150-4c27-8bab-5e1652d9a55a" name="akaunting" url="http://akaunting.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="546f77ce-9ba7-4806-a4a1-243882d5ebb4" name="osw" url="http://osw.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="89164abf-d3fd-4337-8b74-e6bcb5d49d20" name="pingcrm" url="http://pingcrm.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="300fe860-aa10-40e6-9730-b375f5596004" name="e-katalog" url="http://e-katalog.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a30902c2-738a-4fa3-bf27-0203dcf5a478" name="simmas" url="http://simmas.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4a7a88e3-ae73-4085-8587-bd85254ce6d1" name="simmas" url="http://simmas.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="be651e5f-2fab-40f2-9594-48a793594f3a" name="lv" url="http://lv.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="dd86319f-ffcc-4248-8b2d-45d0f260cd6b" name="laravel7" url="http://laravel7.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5a1afc4c-fcb4-4e84-bea2-40aac461877c" name="santos" url="http://santos.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="7a92726a-6d69-471d-80f5-7c990ff86889" name="aggregate" url="http://aggregate.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="472fde08-d040-4c75-b2ae-fc8d3ae79bf6" name="learn-laravel" url="http://learn-laravel.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a55cb503-75d1-4733-8da4-c1f338e7a07a" name="laravel core ui" url="http://laravel-core-ui.test/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="e03b51d2-e9f9-4a26-8dff-929165acd060" name="laravel-asset-stok-management" url="http://laravel-asset-stok-management.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="7bd2d474-4513-4de8-b4cc-1f8099d1ed78" name="multi-level-categories" url="http://multi-level-categories.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="55062d48-43b6-440a-8291-cde6439c698e" name="events blogs" url="http://events-blogs.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f0f07644-368b-444c-9684-efa8d7885f0b" name="laravel tall" url="http://laravel-tall.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="ba95d63f-5419-46f0-a9fb-374c9554e50b" name="santos2" url="http://santos2.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4d848eb6-cfe3-4561-ad2e-ec30dd77080a" name="Laravolt" url="http://laravolt.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c694492f-f764-4bf7-8763-ec2867dfa5fd" name="Sandbox" url="http://sandbox.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="06aa6a5d-4b87-4aca-90eb-5116e533a904" name="Akaunting" url="http://akaunting.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
