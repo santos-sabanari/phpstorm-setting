@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6dbda28e-663b-451f-bb36-03d0342af4f8" name="talenta" url="http://talenta.test">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="545acb3e-9fac-4e8d-8c76-bb771cff5f80" name="millimax" url="http://millimax.test">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
