@@ -1,9 +1,6 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpAutoImport" import_on_paste="ALL" />
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
+  <component name="PhpSmartKeysConfiguration">
+    <option name="smartFunctionParametersCompletion" value="true" />
   </component>
 </application>
