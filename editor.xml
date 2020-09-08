@@ -1,6 +1,7 @@
 <application>
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -26,7 +27,15 @@
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
+  <component name="SqlFoldingSettings">
+    <option name="COLLAPSE_LONG_NUMBERS" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+    <option name="COLLAPSE_ENTITIES" value="false" />
+    <option name="COLLAPSE_DATA_URI" value="false" />
   </component>
 </application>
